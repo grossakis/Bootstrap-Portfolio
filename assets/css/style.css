@@ -53,23 +53,9 @@ hr{
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-.georgepic{
-    height: 240px;
-    width: 360px;
-}
-
-.portpic{
-    height: 180px;
-    width: 270px;
-}
-
-.imgbox{
-    position: relative;
-}
-
 .boxlabel{
-    position: absolute;
-    bottom: 20px;
+    position: relative;
+    bottom: 40px;
     color: #ffffff;
     background-color: #4aaaa5;
 }
